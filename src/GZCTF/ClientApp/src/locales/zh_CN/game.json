@@ -14,7 +14,7 @@
     "hidden": "比赛已隐藏",
     "limited": "{{count}}人赛",
     "individual": "个人赛",
-    "mutiplayer": "团队赛"
+    "multiplayer": "团队赛"
   },
   "placeholder": {
     "no_solved": "Ouch! 这支队伍还没有解出题目呢……"
